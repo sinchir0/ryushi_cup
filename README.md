@@ -1,5 +1,7 @@
 # ryushi_cup
 
+https://www.kaggle.com/competitions/ryushi-88-cup-re
+
 ## バックグラウンドにて、複数のノートブックを直列に実行する
 ```
 # あらかじめ、mutiple_run.sh内に実行したいnotebookを記載する
